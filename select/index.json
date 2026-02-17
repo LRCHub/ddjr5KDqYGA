@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Green Eyes",
+  "base_artist": "Arlo Parks",
+  "createdAt": "2026-02-17T12:28:24.606995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Green_Eyes_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_Green_Eyes_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Hüsker Dü",
+      "has_synced": true,
+      "path": "select/03_Green_Eyes_Hüsker_Dü.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Wavves",
+      "has_synced": false,
+      "path": "select/04_Green_Eyes_Wavves.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Amen Dunes",
+      "has_synced": false,
+      "path": "select/05_Green_Eyes_Amen_Dunes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Kevin Krauter",
+      "has_synced": true,
+      "path": "select/06_Green_Eyes_Kevin_Krauter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cold Green Eyes",
+      "artist": "Station Earth feat. Roos Denayer",
+      "has_synced": false,
+      "path": "select/07_Cold_Green_Eyes_Station_Earth_feat._Roos_Denayer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Arlo Parks",
+      "has_synced": true,
+      "path": "select/08_Green_Eyes_Arlo_Parks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretty Green Eyes",
+      "artist": "Ultrabeat",
+      "has_synced": true,
+      "path": "select/09_Pretty_Green_Eyes_Ultrabeat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Green Eyes (feat. The Jimmy Dorsey Orchestra with Rosemary Clooney)",
+      "artist": "Barry Manilow feat. The Jimmy Dorsey Orchestra & Rosemary Clooney",
+      "has_synced": false,
+      "path": "select/10_Green_Eyes_(feat._The_Jimmy_Dorsey_Orchestra_with_Rosemary_Clooney)_Barry_Manilow_feat._The_Jimmy_Dorsey_Orchestra_&_Rosemary_Clooney.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/11_Green_Eyes_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aquellos Ojos Verdes (Green Eyes)",
+      "artist": "The Platters",
+      "has_synced": true,
+      "path": "select/12_Aquellos_Ojos_Verdes_(Green_Eyes)_The_Platters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Erykah Badu",
+      "has_synced": true,
+      "path": "select/13_Green_Eyes_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Green Eyes",
+      "artist": "Barry Manilow featuring Jimmy Dorsey’s Orchestra with Rosemary Clooney",
+      "has_synced": false,
+      "path": "select/14_Green_Eyes_Barry_Manilow_featuring_Jimmy_Dorsey’s_Orchestra_with_Rosemary_Clooney.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pretty Green Eyes",
+      "artist": "Ultrabeat",
+      "has_synced": true,
+      "path": "select/15_Pretty_Green_Eyes_Ultrabeat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Green Eyes",
+      "artist": "Arlo Parks",
+      "has_synced": false,
+      "path": "select/pl_01_Green_Eyes_Arlo_Parks.txt"
+    }
+  ]
+}
